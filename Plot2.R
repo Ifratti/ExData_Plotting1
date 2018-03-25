@@ -1,4 +1,4 @@
-source('C:/Users/ifrat/Dropbox/R/Coursera/Exploratory data Analysis/ExData_Plotting1/ReadPlotData.R')
+source('ReadPlotData.R')
 
 png("plot2.png")
 household_power_consumption[,plot(DateTime,Global_active_power,type ="l"
