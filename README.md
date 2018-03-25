@@ -1,4 +1,4 @@
-##Changes
+## Changes  
 To create to plots make sure the 'ReadPlotData.R' is in your working directory.
 
 ## Introduction
